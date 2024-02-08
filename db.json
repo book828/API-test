@@ -20,6 +20,7 @@
       "amount_conditions": "1000",
       "commodity": [
         { "sku_code": "1234567890123" }
+      ]
     },
     {
       "campaign_id": "3",
@@ -29,6 +30,7 @@
       "amount_conditions": "0",
       "commodity": [
         { "sku_code": "1234567890123" }
+      ]
     }
   ]
 }

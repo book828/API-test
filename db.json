@@ -8,9 +8,6 @@
       "campaign_explanation": "100周年対象商品を買って応募しよう",
       "member_conditions": "0",
       "amount_conditions": "0",
-      "commodity": [
-        { "sku_code": "1234567890123" }
-      ]
     },
     {
       "campaign_id": "2",
@@ -18,9 +15,6 @@
       "campaign_explanation": "1000円以上の購入でクーポンプレゼント",
       "member_conditions": "0",
       "amount_conditions": "1000",
-      "commodity": [
-        { "sku_code": "1234567890123" }
-      ]
     },
     {
       "campaign_id": "3",
@@ -28,9 +22,6 @@
       "campaign_explanation": "会員限定・ビールを買うともう一杯プレゼント",
       "member_conditions": "1",
       "amount_conditions": "0",
-      "commodity": [
-        { "sku_code": "1234567890123" }
-      ]
     }
   ]
 }

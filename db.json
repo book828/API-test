@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "campaign_id": "1",
+      "campaign_id": 1,
       "campaign_name": "100周年キャンペーン",
       "campaign_explanation": "100周年対象商品を買って応募しよう",
       "member_conditions": "0",
@@ -18,14 +18,14 @@
             ]
     },
     {
-      "campaign_id": "2",
+      "campaign_id": 2,
       "campaign_name": "クーポンキャンペーン",
       "campaign_explanation": "1000円以上の購入でクーポンプレゼント",
       "member_conditions": "0",
       "amount_conditions": "1000"
     },
     {
-      "campaign_id": "3",
+      "campaign_id": 3,
       "campaign_name": "会員限定ビール祭り",
       "campaign_explanation": "会員限定・ビールを買うともう一杯プレゼント",
       "member_conditions": "1",

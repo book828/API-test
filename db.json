@@ -1,9 +1,3 @@
 {
-    "name": "Morpheus",
-    "job": "Leader",
-    "id": "199",
-    "com": {
-        "a": true,
-        "b": false
-    }
+    "name": true
 }

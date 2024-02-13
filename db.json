@@ -1,7 +1,5 @@
 {
-   "result": "true",
-    "campaign": "true",
-  "data": [
+   "result": "true","campaign": "true","data": [
     {
       "campaign_id": 1,
       "campaign_name": "100周年キャンペーン",
